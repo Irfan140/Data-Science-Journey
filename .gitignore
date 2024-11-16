@@ -1,2 +1,5 @@
 # Ignore venv files
 **/venv/
+
+# Temporary untracked
+assignment_questions/
