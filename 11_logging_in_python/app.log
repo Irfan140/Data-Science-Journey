@@ -1,0 +1,15 @@
+2024-11-19 14:44:01-root-DEBUG-This is a debug message
+2024-11-19 14:44:01-root-INFO-This is an info message
+2024-11-19 14:44:01-root-WARNING-This is a warning message
+2024-11-19 14:44:01-root-ERROR-This is an error message
+2024-11-19 14:44:01-root-CRITICAL-This is a critical message
+2024-11-19 14:44:10-root-DEBUG-This is a debug message
+2024-11-19 14:44:10-root-INFO-This is an info message
+2024-11-19 14:44:10-root-WARNING-This is a warning message
+2024-11-19 14:44:10-root-ERROR-This is an error message
+2024-11-19 14:44:10-root-CRITICAL-This is a critical message
+2024-11-19 14:44:27-root-DEBUG-This is a debug message
+2024-11-19 14:44:27-root-INFO-This is an info message
+2024-11-19 14:44:27-root-WARNING-This is a warning message
+2024-11-19 14:44:27-root-ERROR-This is an error message
+2024-11-19 14:44:27-root-CRITICAL-This is a critical message
