@@ -3,6 +3,7 @@ numpy
 pandas
 matplotlib
 seaborn
-bs4
-requests
 flask
+memory_profiler
+streamlit
+scikit-learn
