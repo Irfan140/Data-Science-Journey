@@ -1,4 +1,5 @@
 ipykernel
+jupyter
 numpy
 pandas
 matplotlib
@@ -10,3 +11,4 @@ scikit-learn
 plotly
 nbformat
 ipython
+xgboost
