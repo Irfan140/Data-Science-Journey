@@ -12,3 +12,4 @@ plotly
 nbformat
 ipython
 xgboost
+nltk
