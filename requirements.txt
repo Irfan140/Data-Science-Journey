@@ -13,3 +13,4 @@ nbformat
 ipython
 xgboost
 nltk
+gensim
