@@ -13,6 +13,7 @@ As I progress, this repository will include:
 - Data Visualization techniques
 - Machine Learning basics
 - Real-world Data Science projects
+- Natural Language Processing
 
 ## 📂 Repository Structure
 The repository is organized as follows:
