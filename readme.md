@@ -7,25 +7,18 @@ I started my journey in Data Science on **November 15, 2024**, and I am currentl
 
 ## 🧠 Topics Covered
 As I progress, this repository will include:
-- Fundamentals of Data Science
 - Python for Data Science
+- Fundamentals of Data Science
 - Exploratory Data Analysis (EDA)
 - Data Visualization techniques
-- Machine Learning basics
-- Real-world Data Science projects
+- Machine Learning 
 - Natural Language Processing
+- Deep Learning
 
-## 📂 Repository Structure
-The repository is organized as follows:
-- **Notebooks/**: Jupyter notebooks with step-by-step learning notes and exercises.
-- **Data/**: Sample datasets used in the learning process.
-- **Scripts/**: Python scripts demonstrating concepts and tasks.
-- **Projects/**: Mini-projects showcasing applied Data Science skills.
 
 ## 🎯 Objectives
 - Build a strong foundation in Data Science.
 - Work on hands-on projects for practical experience.
-- Master the use of tools like Python, pandas, NumPy, matplotlib, and scikit-learn.
 
 ## 🤝 Contributing
 This is a personal learning repository, but feedback and suggestions are always welcome! Feel free to raise an issue or reach out to me.
