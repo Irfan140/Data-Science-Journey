@@ -2,6 +2,8 @@ ipykernel
 jupyter
 numpy
 pandas
+lxml
+openpyxl
 matplotlib
 seaborn
 flask
