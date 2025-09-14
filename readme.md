@@ -1,31 +1,34 @@
-# Data Science Journey 📊
+# 🤖 Classical Machine Learning Journey  
 
-Welcome to my **Data Science Journey** repository! This repository documents my learning and progress in the field of Data Science. 🚀
+Welcome to my **Classical Machine Learning Journey** repository!  
+This repo documents all the **codes, notes, and concepts** I’ve learned and practiced throughout my ML learning path. 🚀  
 
-## 🌟 About
-I started my journey in Data Science on **November 15, 2024**, and I am currently learning from **Krish Naik sir's Udemy course**. My goal is to explore the fascinating world of Data Science and master skills in analyzing, visualizing, and making predictions from data.
+---
 
-## 🧠 Topics Covered
-As I progress, this repository will include:
-- Python for Data Science
-- Fundamentals of Data Science
-- Exploratory Data Analysis (EDA)
-- Data Visualization techniques
-- Machine Learning 
-- Natural Language Processing
-- Deep Learning
+## 📂 Contents  
+
+- 🐍 **Python basics** for ML  
+- 📊 **NumPy & Pandas** (data handling & manipulation)  
+- 🔍 **Exploratory Data Analysis (EDA)**  
+- 📈 **Data Visualization** techniques  
+- 🤖 **Machine Learning**  
+  - 🧑‍🏫 Supervised Learning  
+  - 🌀 Unsupervised Learning  
+- 🗣️ **Natural Language Processing (NLP)**  
+- 🧠 **Artificial Neural Networks (ANN)**  
+- 🔄 **Recurrent Neural Networks (RNN)**  
+
+---
 
 
-## 🎯 Objectives
-- Build a strong foundation in Data Science.
-- Work on hands-on projects for practical experience.
 
-## 🤝 Contributing
-This is a personal learning repository, but feedback and suggestions are always welcome! Feel free to raise an issue or reach out to me.
+## 🔗 Connect with Me  
 
-## 🔗 Connect with Me
-- [GitHub](https://github.com/Irfan140)
-- [LinkedIn](https://www.linkedin.com/in/irfan-mehmud-7a409b280/)
+🌐 [Portfolio](https://www.irfanmehmud.site/)  
+💻 [GitHub](https://github.com/Irfan140)  
+💼 [LinkedIn](https://www.linkedin.com/in/irfan-mehmud/)  
+🐦 [X (Twitter)](https://x.com/learnatick)  
 
-## 🚀 Let's Explore!
-Join me as I delve into the dynamic field of Data Science and unlock the power of data. 🌟
+---
+
+⭐ If you find this repo helpful or inspiring, don’t forget to **star** it!  
