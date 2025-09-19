@@ -1,7 +1,7 @@
-# 🤖 Classical Machine Learning Journey  
+# 🤖 Classical Machine Learning  
 
-Welcome to my **Classical Machine Learning Journey** repository!  
-This repo documents all the **codes, notes, and concepts** I’ve learned and practiced throughout my ML learning path. 🚀  
+Welcome to my **Classical Machine Learning** repository!  
+This repo inlcudes all the **codes, notes, and concepts** I’ve learned and practiced throughout my ML learning path. 🚀  
 
 ---
 
@@ -15,11 +15,10 @@ This repo documents all the **codes, notes, and concepts** I’ve learned and pr
   - 🧑‍🏫 Supervised Learning  
   - 🌀 Unsupervised Learning  
 - 🗣️ **Natural Language Processing (NLP)**  
-- 🧠 **Artificial Neural Networks (ANN)**  
-- 🔄 **Recurrent Neural Networks (RNN)**  
+- 🧠 **Deep learning**
+  - Artificial Neural Networks (ANN)   
 
 ---
-
 
 
 ## 🔗 Connect with Me  
